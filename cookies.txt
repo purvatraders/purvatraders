@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost:8080	TRUE	/phpmyadmin4.9.7/	FALSE	1999999999	goto	deleted
+localhost:8080	TRUE	/phpmyadmin4.9.7/	FALSE	1999999999	back	deleted
+localhost:8080	TRUE	/phpmyadmin4.9.7/	FALSE	1999999999	pma_lang	en
+localhost:8080	TRUE	/phpmyadmin4.9.7/	FALSE	1999999999	phpMyAdmin	m19isqabcalhpnbqm5hc747am0
+localhost:8080	TRUE	/purvatraders/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+localhost:8080	TRUE	/phpmyadmin/	FALSE	1999999999	pma_lang	en
+localhost:8080	TRUE	/phpmyadmin/	FALSE	1999999999	phpMyAdmin	mbi3o2r6qsan89hj94fdcblcnk
+localhost:8080	TRUE	/adminer/	FALSE	1999999999	adminer_sid	9g9dg5jjvubklke5ddiqirp2u7
+localhost:8080	TRUE	/adminer/	FALSE	1999999999	adminer_key	daf8fdaca1f636c8c462d57195c2d92d
+localhost:8080	TRUE	/	FALSE	1999999999	PHPSESSID	cnun7nv7ojmtf5qtouad58s426
+localhost:8080	TRUE	/	FALSE	1999999999	SameSite	Strict
+
