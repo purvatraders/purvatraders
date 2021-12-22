@@ -409,19 +409,18 @@ function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if
 						</div>
 					</div>
 		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing">
-<h3 class="sd-title">Share this:</h3>
+<h3 class="sd-title">Find Useful Share Now</h3>
 <div class="sd-content">
 <ul>
 <li class="share-facebook"><div class="fb-share-button" data-href="./contact-us/" data-layout="button_count"></div></li>
-<li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button" href="./index.html?share=jetpack-whatsapp" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li>
+<li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button" href="./index.html#print" target="_blank" title="Click to print"><span>Print</span></a></li>
 <li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li>
 <li class="share-end">
 </ul>
 <div class="sharing-hidden"><div class="inner" style="display: none;"><ul>
 <li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="./contact-us/" data-text="Contact Us">Tweet</a></li>
-<li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared="" class="share-telegram sd-button" href="./index.html?share=telegram" target="_blank" title="Click to share on Telegram"><span>Telegram</span></a></li>
+<li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button" href="./index.html?share=jetpack-whatsapp" target="_blank" title="Click to share on WhatsApp"><span>WhatsApp</span></a></li>
 <li class="share-end">
-<li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button" href="./index.html#print" target="_blank" title="Click to print"><span>Print</span></a></li>
 <li class="share-end">
 </ul></div></div>
 </div>
@@ -477,10 +476,6 @@ function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if
 <li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="./index.html">Contact Us</a></li>
 <li class="wp-block-pages-list__item"><a class="wp-block-pages-list__item__link" href="./../hdpe-tarpaulin-manufacturer-supplier-and-exporter/index.html">HDPE Tarpaulins</a></li>
 </ul></div></div>
-
-
-
-<p><a href="https://purvatraders.com/sitemap.html">Sitemap</a></p>
 </div></div>
 </div></div>
 </aside>	</div>
@@ -573,39 +568,6 @@ var windowOpen;
 							windowOpen.close();
 						}
 						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
-						return false;
-					}
-				} );
-			} )();
-var windowOpen;
-			( function () {
-				function matches( el, sel ) {
-					return !! (
-						el.matches && el.matches( sel ) ||
-						el.msMatchesSelector && el.msMatchesSelector( sel )
-					);
-				}
-
-				document.body.addEventListener( 'click', function ( event ) {
-					if ( ! event.target ) {
-						return;
-					}
-
-					var el;
-					if ( matches( event.target, 'a.share-telegram' ) ) {
-						el = event.target;
-					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-telegram' ) ) {
-						el = event.target.parentNode;
-					}
-
-					if ( el ) {
-						event.preventDefault();
-
-						// If there's another sharing window open, close it.
-						if ( typeof windowOpen !== 'undefined' ) {
-							windowOpen.close();
-						}
-						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
 						return false;
 					}
 				} );
