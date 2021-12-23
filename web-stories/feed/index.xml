@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/purvatraders/web-stories/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Tarpaulin and Shade Net Supplier and Exporter</description>
-	<lastBuildDate>Thu, 23 Dec 2021 13:57:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Dec 2021 18:31:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,5 +30,22 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Farmers Day</title>
+		<link>./../happy-farmers-day-web-story/index.html</link>
+		
+		<dc:creator><![CDATA[Purva Traders]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2021 17:34:12 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=web-story&#038;p=849</guid>
+
+					<description><![CDATA[		<div class="wp-block-web-stories-embed alignnone">
+			<a href="./../happy-farmers-day-web-story/index.html">
+				Farmers Day			</a>
+		</div>
+		]]></description>
+		
+		
+		
+			</item>
+	</channel>
 </rss>
