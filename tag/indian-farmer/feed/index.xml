@@ -10,7 +10,7 @@
 <channel>
 	<title>Indian Farmer Archives &raquo; Purva Traders</title>
 	<atom:link href="http://localhost/purvatraders/tag/indian-farmer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://purvatraders.com</link>
+	<link>./../../../index.html</link>
 	<description>Tarpaulin and Shade Net Supplier and Exporter</description>
 	<lastBuildDate>Wed, 22 Dec 2021 12:08:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
-	<url>https://purvatraders.com/wp-content/uploads/2021/12/lOGO-2-150x150.png</url>
+	<url>./../../../wp-content/uploads/2021/12/lOGO-2-150x150.png</url>
 	<title>Indian Farmer Archives &raquo; Purva Traders</title>
-	<link>https://purvatraders.com</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Types of Shade Nets</title>
-		<link>https://purvatraders.com/types-of-shade-nets/</link>
+		<link>./../../../types-of-shade-nets/index.html</link>
 		
 		<dc:creator><![CDATA[Purva Traders]]></dc:creator>
 		<pubDate>Tue, 21 Dec 2021 16:00:16 +0000</pubDate>
@@ -41,10 +41,10 @@
 		<category><![CDATA[Shade net]]></category>
 		<category><![CDATA[terrace garden]]></category>
 		<category><![CDATA[Types of shade nets]]></category>
-		<guid isPermaLink="false">https://purvatraders.com/?p=702</guid>
+		<guid isPermaLink="false">./../../../index.html?p=702</guid>
 
-					<description><![CDATA[<p>There Are Various Types of Shade Nets according to their Shading Percent, Gauges, Width And Quality of Material Used For Production Here in this Blog post You Will Get All Information About Such Types of Shade nets and about Their Applications Where They used. Shade Net Types According To Shading Percent 50% Shading Net: It ... <a title="Types of Shade Nets" class="read-more" href="https://purvatraders.com/types-of-shade-nets/" aria-label="More on Types of Shade Nets">Read more</a></p>
-<p>The post <a rel="nofollow" href="https://purvatraders.com/types-of-shade-nets/">Types of Shade Nets</a> appeared first on <a rel="nofollow" href="https://purvatraders.com">Purva Traders</a>.</p>
+					<description><![CDATA[<p>There Are Various Types of Shade Nets according to their Shading Percent, Gauges, Width And Quality of Material Used For Production Here in this Blog post You Will Get All Information About Such Types of Shade nets and about Their Applications Where They used. Shade Net Types According To Shading Percent 50% Shading Net: It ... <a title="Types of Shade Nets" class="read-more" href="./../../../types-of-shade-nets/index.html" aria-label="More on Types of Shade Nets">Read more</a></p>
+<p>The post <a rel="nofollow" href="./../../../types-of-shade-nets/index.html">Types of Shade Nets</a> appeared first on <a rel="nofollow" href="./../../../index.html">Purva Traders</a>.</p>
 ]]></description>
 		
 		
