@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/purvatraders/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Tarpaulin and Shade Net Supplier and Exporter</description>
-	<lastBuildDate>Fri, 11 Mar 2022 07:46:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Mar 2022 13:10:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
 	<url>./../wp-content/uploads/2021/12/lOGO-2-150x150.png</url>
@@ -36,10 +36,17 @@
 				<category><![CDATA[Shade Net]]></category>
 		<guid isPermaLink="false">./../index.html?p=2159</guid>
 
-					<description><![CDATA[शेड नेट हाऊस म्हणजे काय ? शेड नेट पॉली-हाऊस म्हणजे आवश्यक सूर्यप्रकाश, आर्द्रता आणि हवा अंतरांमधून जाऊ देण्यासाठी कृषी जाळी किंवा इतर कोणत्याही विणलेल्या सामग्रीने बंद केलेली रचना आहे. हे रोपांच्या वाढीसाठी अनुकूल वातावरण तयार करते. शेड नेट हाऊसचा वापर फ्लॉवर रोपे, पर्ण वनस्पती, औषधी वनस्पती, भाज्या आणि मसाल्यांच्या लागवडीस मदत करते. फळे आणि भाजीपाला [&#8230;]]]></description>
+					<description><![CDATA[शेड नेट हाऊस म्हणजे काय ? शेड नेट पॉली-हाऊस म्हणजे आवश्यक सूर्यप्रकाश, आर्द्रता आणि हवा अंतरांमधून जाऊ देण्यासाठी कृषी जाळी &#8230;<p class="read-more"> <a class="ast-button" href="./../shed-net-house-information-in-marathi/index.html"> <span class="screen-reader-text">Shade Net house Information In Marathi &#124; शेड नेट हाऊस विषयी माहिती</span> Read More »</a></p>]]></description>
 		
 		
 		
-			</item>
+		<media:content url="https://www.youtube.com/embed/PQmWv1VHlsk" medium="video" width="1280" height="720">
+			<media:player>https://www.youtube.com/embed/PQmWv1VHlsk</media:player>
+			<media:title type="plain">कम खर्च में ग्रीन हाउस बनाना सीखें | low cost greenhouse | How to make Green House || Kheti Kisan</media:title>
+			<media:description type="html"><![CDATA[कम खर्च में ग्रीन हाउस बनाना सीखें | Low cost greenhouse | How to make Green House || Kheti Kisan#GreenHouse #Polyhouse #Poly_house #Lowcostgreenhouse #ग्रीन...]]></media:description>
+			<media:thumbnail url="./../wp-content/uploads/2021/12/polyhouse-thumbnail.png" />
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+		</media:content>
+	</item>
 	</channel>
 </rss>
